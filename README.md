@@ -8,7 +8,7 @@ To develop practical, hands-on skills in packet capture and analysis, moving fro
 
 ## Deliverables
 
-*   **`capturing_packets.pcapng`**: The raw packet capture file containing all traffic from the analysis session. This can be opened with Wireshark.
+*   **`packet_captures/capturing_packets.pcapng`**: The raw packet capture file containing all traffic from the analysis session. This can be opened with Wireshark.
 *   **`Network_Analysis_Report.pdf`**: A detailed report (created from the template above) documenting the methodology, specific findings, and conclusions drawn from the packet data.
 
 ## How the Capture Was Performed
